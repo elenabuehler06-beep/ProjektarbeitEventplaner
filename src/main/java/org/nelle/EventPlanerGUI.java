@@ -142,7 +142,7 @@ public class EventPlanerGUI {
                     DateTimeFormatter formatter = DateTimeFormatter.ISO_LOCAL_DATE;
                     datum = LocalDate.parse(textField5.getText(), formatter);
                     events.add(new Event(name, description, location, cost, datum));
-                    //reset text fields after successful execution of events.add()
+                    //reset text fields after successful execution of events.add();
                     textField1.setText("");
                     textField2.setText("");
                     textField3.setText("");
