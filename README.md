@@ -2,8 +2,9 @@
 
 ### Projektbeschreibung
 
-Diese Projektarbeit beinhaltet einen  Eventplaner in Java mit grafischer Benutzeroberfläche. 
-Ziel ist es, Events zu erfassen, zu verwalten und zeitnah anstehende Events übersichtlich darzustellen. Zusätzlich können diese Events gefiltert angezeigt werden. 
+Wir sind Elena und Nina und planen sowie organisieren schon seit längerer Zeit gerne Geburtstage, Partys und andere Feiern. Um dabei den Überblick zu behalten, entstand die Idee eines Eventplaners, der dabei hilft Events strukturiert zu verwalten.
+
+Diese Projektarbeit beinhaltet die Umsetzung eines Eventplaners in Java mit grafischer Benutzeroberfläche. Ziel des Programms ist es, Events zu erfassen, zu verwalten und zeitnah anstehende Events übersichtlich darzustellen. Zusätzlich bietet der Eventplaner die Möglichkeit, Events gefiltert anzuzeigen, um relevante Termine schnell wiederzufinden.
 
 ### Projektstruktur
 
