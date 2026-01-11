@@ -11,7 +11,7 @@ public class EventPlanerGUI {
 
     private static final ArrayList<Event> events = new ArrayList<>();
 
-    public static void main() {
+    public static void main(String[] args) {
         initObjekte();
         javax.swing.SwingUtilities.invokeLater(EventPlanerGUI::createAndShowGUI);
     }
